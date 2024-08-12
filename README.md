@@ -6,5 +6,6 @@ HD44780_Clear() ❌ -----> lcd_Clear() ✔
 
 device adress 0x3F ❌ -----> 0x27 ✔
 
+#include "stm32f1xx_hal.h" ✔
 
 Thanks [@eziya](https://github.com/eziya)
