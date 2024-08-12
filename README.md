@@ -10,4 +10,6 @@ device adress 0x3F ❌ -----> 0x27 ✔
 
 Thanks [@eziya](https://github.com/eziya)
 
+<img src="https://github.com/mertalisenturk/stm32-16x2lcd-i2c-HAL/blob/master/lcdThanks.jpg" alt="thanks" width="400"/>
+
 
